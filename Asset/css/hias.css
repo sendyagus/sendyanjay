@@ -1,0 +1,68 @@
+body{
+	/* min-height: 3000px; */
+    background-color: gray;
+ 
+}
+
+
+.bg-nav{
+    background-image: linear-gradient(to right,black, blue);
+}
+
+.bg-nav .navbar-nav a.nav-link{
+
+
+	color: white;
+	font-weight: 500;
+}
+
+.bg-nav .navbar-nav a.nav-link:hover{
+	color: var(--bs-green);
+}
+
+.navbar-brand img{
+	width: 80px;
+}
+
+
+
+.card{
+    text-align: center;
+}
+
+.blog a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+
+}
+
+
+
+
+.link li a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.link li a:hover{
+    color: #DAA520;
+    transition: 0,5s;
+}
+
+/*COPYRIGHT*/
+.copyright a{
+    text-decoration: none;
+}
+
+.row h5{
+    color: white;
+}
+
+.col-md-4 li a{
+color: blue;
+}
+
+.col-md-4 li a:hover{
+color: white;
+}
+
